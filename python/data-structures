@@ -1,0 +1,16 @@
+Built-in Data Structures
+
+1 - List : collection which is ordered and changeable. Allows duplicate members.
+2 - Dictionary : is a collection which is ordered and changeable. No duplicate members.
+3 - Tuple : collection which is ordered and unchangeable. Allows duplicate members.
+4 - Sets : collection which is unordered, unchangeable, and unindexed. No duplicate members.
+
+User-Defined Data Structures
+
+1 -  Arrays vs. Lists
+2 -  Stack : linear data structure - LIFO
+3 -  Queue : linear data structure - FIFO
+4 -  Tree : non-linear Data Structures which have root and nodes
+5 -  Linked List : linear Data Structures which are not stored consequently but are linked with each other using pointers
+6 -  Graph : Graphs are used to store data collection of points called vertices (nodes) and edges (edges).
+7 -  HashMaps : same as what dictionaries are in Python
